@@ -5,3 +5,7 @@ Durante mi formación en desarrollo, participé en el proyecto "Valkirias", un e
 Además de mi enfoque técnico, cuento con experiencia liderando equipos, tanto en mis roles anteriores como en el sector de hospitalidad, donde trabajé como Bar Manager, como durante mi tiempo como Teaching Assistant (TA) en Henry. Estas experiencias consolidaron mis fortalezas en liderazgo, trabajo en equipo, aprendizaje rápido y adaptabilidad frente a desafíos.
 
 Mi meta profesional es desarrollarme como Back-End Developer y eventualmente explorar el camino hacia Full-Stack, siempre en búsqueda de nuevos aprendizajes y tecnologías que me permitan crecer tanto profesional como personalmente.
+
+Como encontrarme? 
+LinkedIn: https://www.linkedin.com/in/lciambotti/
+Email: lciambotti@hotmail.com
